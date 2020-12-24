@@ -61,3 +61,5 @@ skewness(mtcars)
 skewness((mtcars$vs))
 kurtosis(mtcars)
 kurtosis(mtcars$am)
+
+
